@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/RLddx5Uu538"
+    },
+    "title": {
+        "title": "Bitcoin vs Bitcoin"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "block",
+        "round3": "farm",
+        "round4": "regulation",
+        "round5": "payment",
+        "round6": "mining",
+        "round7": "hold",
+        "round8": "chain"
+    },
+    "games": {
+        "round1": ["puss coin","free coin"],
+        "round2": ["twitter block","facebook block"],
+        "round3": ["gold farm","sex farm"],
+        "round4": ["porn regulation","gun regulation"],
+        "round5": ["bitcoin payment","car payment"],
+        "round6": ["money mining","data mining"],
+        "round7": ["choke hold","hold hands"],
+        "round8": ["daisy chain","email chain"]
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/AIsYJ_7chNc"
+    },
+    "title": {
+        "title": "Ice Cream vs War"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "ice",
+        "round3": "raid",
+        "round4": "wall",
+        "round5": "caravan",
+        "round6": "nuclear",
+        "round7": "family",
+        "round8": "dream"
+    },
+    "games": {
+        "round1": ["ethnic girls","ethnic food"],
+        "round2": ["ice cream","ice t"],
+        "round3": ["raid 3","wow raid"],
+        "round4": ["trump wall","wall art"],
+        "round5": ["dodge caravan","caravan palace"],
+        "round6": ["nuclear war","nuclear bomb"],
+        "round7": ["royal family","family disney"],
+        "round8": ["wet dream","sex dream"]
+    }
+}

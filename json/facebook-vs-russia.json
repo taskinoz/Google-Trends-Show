@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/SgYQZRGHwkc"
+    },
+    "title": {
+        "title": "Facebook vs Russia"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "board",
+        "round3": "battery",
+        "round4": "facebook",
+        "round5": "fortnite",
+        "round6": "russia",
+        "round7": "collision",
+        "round8": "zuckerberg"
+    },
+    "games": {
+        "round1": ["virginia tech","tech news"],
+        "round2": ["board games","surf board"],
+        "round3": ["phone battery","apple battery"],
+        "round4": ["my facebook","facebook ceo"],
+        "round5": ["download fortnite","fortnite password"],
+        "round6": ["russia girls","russia trump"],
+        "round7": ["collision insurance","car collision"],
+        "round8": ["zuckerberg meme","zuckerberg chair"]
+    }
+}

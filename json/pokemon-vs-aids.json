@@ -1,0 +1,24 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/nlEXAy5YAm8"
+    },
+    "title": {
+        "title": "Pokemon vs Aids"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "misty",
+        "round3": "trainer",
+        "round4": "pikachu",
+        "round5": "pokemon go",
+        "round6": "how to catch"
+    },
+    "games": {
+        "round1": ["team black","team blue"],
+        "round2": ["misty spray","misty pokemon"],
+        "round3": ["personal trainer","dog trainer"],
+        "round4": ["sexy pikachu","hot pikachu"],
+        "round5": ["play pokemon go","pokemon go iphone"],
+        "round6": ["how to catch pikachu","how to catch mewtwo"]
+    }
+}

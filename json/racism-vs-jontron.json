@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/bPqOVzQNn6g"
+    },
+    "title": {
+        "title": "Racism vs Jontron"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "immigration",
+        "round3": "profiling",
+        "round4": "jontron",
+        "round5": "heritage",
+        "round6": "zootopia",
+        "round7": "airbnb",
+        "round8": "______ doesn't exist"
+    },
+    "games": {
+        "round1": ["jpg","switch"],
+        "round2": ["immigration ban","immigration law"],
+        "round3": ["police profiling","muslim profiling"],
+        "round4": ["jontron racist","jontron rant"],
+        "round5": ["my heritage","heritage research"],
+        "round6": ["zootopia free","zootopia porn"],
+        "round7": ["airbnb racist","airbnb sex"],
+        "round8": ["god doesnt exist","ghosts dont exist"]
+    }
+}

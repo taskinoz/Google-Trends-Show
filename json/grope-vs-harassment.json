@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/ITZfKuo6Oc0"
+    },
+    "title": {
+        "title": "Grope vs Harassment"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "party",
+        "round3": "80s",
+        "round4": "producer",
+        "round5": "couch",
+        "round6": "grope",
+        "round7": "consent",
+        "round8": "workplace"
+    },
+    "games": {
+        "round1": ["spacey harassment","harassment lawsuit"],
+        "round2": ["sex party","party favors"],
+        "round3": ["80s music","nineteen 80s"],
+        "round4": ["movie producer","music producer"],
+        "round5": ["leather couch","free couch"],
+        "round6": ["boob grope","asian grope"],
+        "round7": ["sexual consent","age consent"],
+        "round8": ["workplace porn","workplace location"]
+    }
+}

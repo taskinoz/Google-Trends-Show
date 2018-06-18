@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/t6LlLRcIHAM"
+    },
+    "title": {
+        "title": "Sex vs Trump"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "republican",
+        "round3": "liberal",
+        "round4": "scandal",
+        "round5": "fraud",
+        "round6": "clinton",
+        "round7": "trump",
+        "round8": "transgender"
+    },
+    "games": {
+        "round1": ["johnny depp","zika virus"],
+        "round2": ["republican nominee","republican party"],
+        "round3": ["liberal arts","liberal democrat"],
+        "round4": ["sex scandal","clinton scandal"],
+        "round5": ["tax fraud","insurance fraud"],
+        "round6": ["bad clinton","lying clinton"],
+        "round7": ["trump wins","trump wife"],
+        "round8": ["transgender bathroom law","transgender bathroom laws"]
+    }
+}

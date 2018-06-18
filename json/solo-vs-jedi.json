@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/hr1_sU_o3HE"
+    },
+    "title": {
+        "title": "solo vs jedi"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "force",
+        "round3": "blaster",
+        "round4": "jedi",
+        "round5": "speeder",
+        "round6": "space",
+        "round7": "emperor",
+        "round8": "projection"
+    },
+    "games": {
+        "round1": ["red saber","blue saber"],
+        "round2": ["force awakens","force entry"],
+        "round3": ["finger blaster","ass blaster"],
+        "round4": ["jedi costume","last jedi"],
+        "round5": ["speeder bike","land speeder"],
+        "round6": ["space ship","space x"],
+        "round7": ["google emperor","emperor penguin"],
+        "round8": ["movie projection","sales projection"]
+    }
+}

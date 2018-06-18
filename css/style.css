@@ -1,0 +1,28 @@
+/* FUNHAUS ORANGE #fe8204 */
+
+/* YOUTUBE VIDEO STYLING */
+.yt{
+  width: 100%;
+}
+
+/* NAV STYLING */
+.nav-wrapper{
+  background: #fe8204;
+}
+.nav-wrapper a{
+  height: 100%;
+  display: inline-block;
+}
+.logo{
+  display: inline-block;
+  height: 100%;
+}
+.dropdown-content li a{
+  color: #fff;
+  background: #fe8204;
+}
+
+/* TEXT STYING */
+h3{
+  text-transform: capitalize;
+}

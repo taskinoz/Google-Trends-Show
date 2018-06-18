@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/K8hf_GeETNs"
+    },
+    "title": {
+        "title": "Kanye vs Thanos"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "platinum",
+        "round3": "feedback",
+        "round4": "guitar",
+        "round5": "overdose",
+        "round6": "bus",
+        "round7": "poppers",
+        "round8": "kanye"
+    },
+    "games": {
+        "round1": ["rock music","yacht rock"],
+        "round2": ["platinum record","platinum jewelry"],
+        "round3": ["audio feedback","feedback loop"],
+        "round4": ["guitar tabs","learn guitar"],
+        "round5": ["celebrity overdose","water overdose"],
+        "round6": ["bang bus","bus stop"],
+        "round7": ["pizza poppers","thanos poppers"],
+        "round8": ["trump kanye","kanye twitter"]
+    }
+}

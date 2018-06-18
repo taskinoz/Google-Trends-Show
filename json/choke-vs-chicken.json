@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/KD0WlApgV2k"
+    },
+    "title": {
+        "title": "Choke vs Chicken"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "raw",
+        "round3": "belt",
+        "round4": "diva",
+        "round5": "slam",
+        "round6": "choke",
+        "round7": "heel",
+        "round8": "murder suicide"
+    },
+    "games": {
+        "round1": ["anal wrestling league","world wrestling league"],
+        "round2": ["raw food","raw chicken"],
+        "round3": ["belt buckle","black belt"],
+        "round4": ["wwe diva","sex diva"],
+        "round5": ["slam dunk","summer slam"],
+        "round6": ["choke food","dick choke"],
+        "round7": ["high heel","heel dog"],
+        "round8": ["murder suicide rate","double murder suicide"]
+    }
+}

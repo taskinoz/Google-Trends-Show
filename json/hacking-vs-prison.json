@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/n9bqcK-nVRk"
+    },
+    "title": {
+        "title": "Hacking vs Prison"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "constitution",
+        "round3": "spy",
+        "round4": "hacking",
+        "round5": "emails",
+        "round6": "probe",
+        "round7": "investigation",
+        "round8": "prison"
+    },
+    "games": {
+        "round1": ["treason trump","american treason"],
+        "round2": ["us constitution","constitution rights"],
+        "round3": ["ruskie spy","spy games"],
+        "round4": ["computer hacking","iphone hacking"],
+        "round5": ["junk emails","spam emails"],
+        "round6": ["ass probe","space probe"],
+        "round7": ["mueller investigation","police investigation"],
+        "round8": ["prison porn","prison job"]
+    }
+}

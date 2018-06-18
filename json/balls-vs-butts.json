@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/giPoGJ_YMp4"
+    },
+    "title": {
+        "title": "Balls vs Butts"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "hoop",
+        "round3": "bracket",
+        "round4": "seed",
+        "round5": "division",
+        "round6": "college",
+        "round7": "region",
+        "round8": "round"
+    },
+    "games": {
+        "round1": ["lucio ball","lucille ball"],
+        "round2": ["hula hoop","hoop dreams"],
+        "round3": ["winning bracket","tax bracket"],
+        "round4": ["plant seed","weed seed"],
+        "round5": ["ubisoft division","the division"],
+        "round6": ["college porn","college girls"],
+        "round7": ["western region","region lock"],
+        "round8": ["round butt","earth round"]
+    }
+}
