@@ -26,3 +26,8 @@
 h3{
   text-transform: capitalize;
 }
+
+/* FOOTER STYLING */
+footer, .page-footer{
+  background: #fe8204 !important;
+}
