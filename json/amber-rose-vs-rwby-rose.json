@@ -7,24 +7,22 @@
     },
     "rounds": {
         "round1": "team name",
-        "round2": "",
-        "round3": "",
-        "round4": "",
-        "round5": "",
-        "round6": "",
-        "round7": "",
-        "round8": "",
-        "round9": ""
+        "round2": "rose",
+        "round3": "grim",
+        "round4": "dust",
+        "round5": "juniper",
+        "round6": "remnant",
+        "round7": "cardinal",
+        "round8": "haver"
     },
     "games": {
-        "round1": ["",""],
-        "round2": ["",""],
-        "round3": ["",""],
-        "round4": ["",""],
-        "round5": ["",""],
-        "round6": ["",""],
-        "round7": ["",""],
-        "round8": ["",""],
-        "round9": ["",""]
+        "round1": ["free anime","gay anime"],
+        "round2": ["buy rose","amber rose"],
+        "round3": ["grim reaper","mr grim"],
+        "round4": ["magic dust","dust buster"],
+        "round5": ["juniper name","juniper plant"],
+        "round6": ["remnant movie","last remnant"],
+        "round7": ["cardinal score","cardinal game"],
+        "round8": ["safe haver","tax haver"]
     }
 }
