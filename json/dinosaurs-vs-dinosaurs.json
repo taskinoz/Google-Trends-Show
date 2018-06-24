@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/dOL0UoH4fdM"
+    },
+    "title": {
+        "title": "Dinosaurs vs Dinosaurs"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "life",
+        "round3": "amber",
+        "round4": "dna",
+        "round5": "jeep",
+        "round6": "unix",
+        "round7": "grant",
+        "round8": "kingdom"
+    },
+    "games": {
+        "round1": ["dinosaur ass","dinosaur clone"],
+        "round2": ["pro life","life cereal"],
+        "round3": ["amber alert","amber moon"],
+        "round4": ["maury dna","dna test"],
+        "round5": ["jeep sex","jeep lease"],
+        "round6": ["unix os","unix tutorial"],
+        "round7": ["hugh grant","college grant"],
+        "round8": ["fallen kingdom","united kingdom"]
+    }
+}
