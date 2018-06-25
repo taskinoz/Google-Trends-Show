@@ -68,6 +68,11 @@ $(document).ready(function() {
         // Find the stylesheet and add ?refresh so it reload
         var a = $('link').first().next().next().attr('href');
         $('link').first().next().next().attr('href', a+'?refresh');
+      },
+      error: function(){
+        // load 404 page
+        $("h1").text("404");
+        // TODO: add some error handling
       }
     });
   }
