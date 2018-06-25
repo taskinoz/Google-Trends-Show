@@ -73,6 +73,7 @@ $(document).ready(function() {
         // load 404 page
         $("h1").text("404");
         // TODO: add some error handling
+        // TODO: add 404 page with style (The page you are lookign for isn't trending, try searching for something else)
       }
     });
   }
