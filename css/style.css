@@ -1,5 +1,10 @@
 /* FUNHAUS ORANGE #fe8204 */
 
+/* FIX PAGE HEIGHT*/
+html,body{
+  height: 100%;
+}
+
 /* YOUTUBE VIDEO STYLING */
 .yt{
   width: 100%;
@@ -30,4 +35,25 @@ h3{
 /* FOOTER STYLING */
 footer, .page-footer{
   background: #fe8204 !important;
+}
+
+/* 404 PAGE */
+.page404{
+  text-align: center;
+  height: 100%;
+  background: url(../img/404trendblur.png);
+  background-size: cover;
+}
+.page404 .logo{
+  height: 66px;
+}
+.page404-text h1{
+  font-size: 80px;
+}
+.page404-text a{
+  margin: 40px 0;
+  background: #fe8204;
+}
+.page404-text a:hover{
+  background: #FF9C1E;
 }

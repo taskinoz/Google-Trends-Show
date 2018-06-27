@@ -70,10 +70,14 @@ $(document).ready(function() {
         $('link').first().next().next().attr('href', a+'?refresh');
       },
       error: function(){
-        // load 404 page
-        $("h1").text("404");
-        // TODO: add some error handling
-        // TODO: add 404 page with style (The page you are lookign for isn't trending, try searching for something else)
+        // Disable Error Messages
+        // TODO: Move this to the beginning of the file
+        //console.log = function() {}
+
+        // Remove body content
+        $("body").empty();
+        // Add 404 page content (Use 404.temp.html for code basis)
+        $("body").append('<div class="page404"> <div class="logo"> <a href="/"><img class="logo" src="img/trends_logo.png" alt="Google trends Logo" title="Google trends Logo"></a> </div><div class="page404-text"> <h1>404</h1> <p>The page you are looking for isn\'t trending, <br>try searching for something else</p><a href="/" class="waves-effect waves-light btn-large"><i class="fa fa-home" aria-hidden="true"></i> Home</a> </div></div>')
       }
     });
   }
