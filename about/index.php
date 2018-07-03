@@ -16,8 +16,12 @@
           <div class="col s12">
             <h1>About</h1>
             <p>This site is a fan project dedicated to tracking the Funhaus Game Show, Google Trends Show</p>
-            <h2>About the Show:</h2>
-            <h2>About the Site:</h2>
+            <h3>About the Show:</h3>
+            <p>The one and only gameshow powered by the Internet.</p>
+            <p>Each round both teams will get a word that they have to pair with a serch term. Wichever team has the most searches, wins.</p>
+            <p><span class="quote">"Google Trends is a gameshow powered by the seach traffic on Google itself."</span> - Trendmaster</p>
+            <h3>About the Site:</h3>
+            <p>The site is a fan project used to track the the trends for each episode of the show.</p>
           </div>
         </div>
       </div>

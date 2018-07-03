@@ -58,6 +58,8 @@ $(document).ready(function() {
         i = 1;
 
         // Create Trends iframes for every round
+        // TODO: replace with trends embed and use the ?reload trick to activate it
+        // or embed it at the bottom of the page (Look at forking the script)
         $.each(page.games, function(index, element) {
             $("h3.round"+i).after('<iframe id="trends-widget-1" src="https://trends.google.com:443/trends/embed/explore/TIMESERIES?req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22'+element[0]+'%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today%2012-m%22%7D%2C%7B%22keyword%22%3A%22'+element[1]+'%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today%2012-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D&amp;tz=-600&amp;eq=q%3D'+element[0]+'%2C'+element[1]+'%26date%3Dtoday%2012-m%2Ctoday%2012-m" width="100%" frameborder="0" scrolling="0" style="border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 2px 0px, rgba(0, 0, 0, 0.24) 0px 2px 2px 0px; height: 366px;"></iframe>');
             // Add Meta Keywords

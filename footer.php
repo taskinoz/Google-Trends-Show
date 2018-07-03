@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col l6 s12">
             <h5 class="white-text">Google Trends Show</h5>
-            <p class="grey-text text-lighten-4">The Google Trends Show website is a site for tracking the trends of each show</p>
+            <p class="grey-text text-lighten-4">The one and only gameshow powered by the Internet</p>
           </div>
           <div class="col l4 offset-l2 s12">
             <h5 class="white-text">Links</h5>

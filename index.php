@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Google Trends Show | Funhaus</title>
-      <meta name="description" content="">
+      <meta name="description" content="The one and only gameshow powered by the Internet.">
       <meta name="keywords" content="google,trends,show,description,about,funhaus,roosterteeth">
       <meta name="author" content="Trend Master">
       <?php include 'scripts.php';?>
