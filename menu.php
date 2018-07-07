@@ -19,6 +19,8 @@
     <li class="divider"></li>
     <li><a href="/ice-cream-vs-war">Ice Cream vs War</a></li>
     <li class="divider"></li>
+    <li><a href="/nood-beach-vs-beach-nechs">Nood Beach vs Beach Sechs</a></li>
+    <li class="divider"></li>
     <li><a href="/kanye-vs-thanos">Kanye vs Thanos</a></li>
     <li class="divider"></li>
     <li><a href="/pokemon-vs-aids">Pokemon vs Aids</a></li>

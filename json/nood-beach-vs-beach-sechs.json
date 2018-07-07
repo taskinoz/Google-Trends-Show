@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=Op1BVY_wGa8"
+    },
+    "title": {
+        "title": "Nood Beach vs Beach Sechs"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "picnic",
+        "round3": "camp",
+        "round4": "sunshine",
+        "round5": "hot",
+        "round6": "jam",
+        "round7": "sweat",
+        "round8": "bbq"
+    },
+    "games": {
+        "round1": ["beach sex","nude beach"],
+        "round2": ["picnic pintrest","picnic food"],
+        "round3": ["day camp","space camp"],
+        "round4": ["sunshine song","sunshine hours"],
+        "round5": ["hot sauce","hot ones"],
+        "round6": ["buy jam","make jam"],
+        "round7": ["sweat pants","sweat er"],
+        "round8": ["bbq chicken","bbq grill"]
+    }
+}
