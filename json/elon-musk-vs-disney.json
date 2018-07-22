@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=5TfrocXnnbw"
+    },
+    "title": {
+        "title": "Elon Musk vs Disney"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "popeye",
+        "round3": "nanny",
+        "round4": "genie",
+        "round5": "alien",
+        "round6": "android",
+        "round7": "museum",
+        "round8": "ai"
+    },
+    "games": {
+        "round1": ["robin williams","robin hood"],
+        "round2": ["popeye order","popeye chicken"],
+        "round3": ["nanny cam","nanny job"],
+        "round4": ["genie song","genie actor"],
+        "round5": ["watch alien","alien life"],
+        "round6": ["android phone","root android"],
+        "round7": ["free museum","art museum"],
+        "round8": ["ai musk","google ai"]
+    }
+}
