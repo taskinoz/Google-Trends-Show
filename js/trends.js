@@ -3,6 +3,10 @@ $(document).ready(function() {
   var url = window.location.pathname.replace(/\//g,"");
   var i = 1;
 
+  // Menu
+  $(".dropdown-trigger").dropdown();
+  $('.sidenav').sidenav();
+
   // Forces a reload of all stylesheets by appending a unique query string
   // to each stylesheet URL.
   // TODO: Either remove or append the time to the reload
@@ -87,9 +91,5 @@ $(document).ready(function() {
 
   // Youtube iframe fullwidth
   $('.yt').height(($('.yt').width()/16)*9);
-
-  // Menu
-  $(".dropdown-trigger").dropdown();
-  $('.sidenav').sidenav();
 
 })
