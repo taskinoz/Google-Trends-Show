@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/embed/fHlmcGBzArs"
+    },
+    "title": {
+        "title": "Transformers vs Pronstar"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "vibration",
+        "round3": "boston",
+        "round4": "happening",
+        "round5": "pornstar",
+        "round6": "burgers",
+        "round7": "transformers",
+        "round8": "felony"
+    },
+    "games": {
+        "round1": ["funky ninja","funky music"],
+        "round2": ["good vibration","phone vibration"],
+        "round3": ["boston marathon","boston weather"],
+        "round4": ["what's happening","the happening"],
+        "round5": ["stepmom pornstar","trump pornstar"],
+        "round6": ["best burgers","cheese burgers"],
+        "round7": ["new transformers","trailer transformers"],
+        "round8": ["6ix9ine felony","felony lawyer"]
+    }
+}
