@@ -17,7 +17,7 @@ $(document).ready(function() {
           this.href = this.href.replace(/\?.*|$/, queryString);
       });
   }
-
+  /*----ROUTING----*/
   // Only show homepage content if there is
   // no page in the URL
   if (url == ""){
@@ -49,7 +49,7 @@ $(document).ready(function() {
         $("h1").text(page.title.title);
         // Add the episode each trend appeared in
         // TODO: Dynamically replace "watch?v=" with "/embed/"
-        $("iframe.yt").attr("src",page.video.video);
+        $("iframe.yt").attr("src",(page.video.video).replace("watch?v=","embed/"));
         trend = ''+page.games.round1[0]+''+page.games.round1[1]+''+page.games.round1[0]+','+page.games.round1[1]+'';
         // Add Meta Descrition
 
