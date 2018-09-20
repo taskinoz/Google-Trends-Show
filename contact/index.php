@@ -16,7 +16,7 @@
           <div class="col s12">
             <h1>Contact</h1>
             <h2>Twitter</h2>
-            <p><a href="https://twitter.com/taskinoz"></a>Follow me</p>
+            <p><a href="https://twitter.com/taskinoz">Follow me</a></p>
             <?php // TODO: Add contact form ?>
           </div>
         </div>
