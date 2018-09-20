@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=zdJwWJeJ7ks&t=19s"
+    },
+    "title": {
+        "title": "Fox News vs Incubus"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "drive",
+        "round3": "news",
+        "round4": "page",
+        "round5": "alphabet",
+        "round6": "plus",
+        "round7": "youtube",
+        "round8": "android"
+    },
+    "games": {
+        "round1": ["bing search","friend search"],
+        "round2": ["drive car","hard drive"],
+        "round3": ["trump news","fox news"],
+        "round4": ["larry page","facebook page"],
+        "round5": ["alphabet song","alphabet soup"],
+        "round6": ["plus size","plus sign"],
+        "round7": ["my youtube","youtube views  "],
+        "round8": ["android phone","android os"]
+    }
+}
