@@ -15,6 +15,8 @@
     <li class="divider"></li>
     <li><a href="/facebook-vs-russia">Facebook vs Russia</a></li>
     <li class="divider"></li>
+    <li><a href="/fortnite-vs-cod">Fortnite vs COD</a></li>
+    <li class="divider"></li>
     <li><a href="/fox-news-vs-incubus">Fox News vs Incubus</a></li>
     <li class="divider"></li>
     <li><a href="/grope-vs-harassment">Grope vs Harassment</a></li>
@@ -22,6 +24,8 @@
     <li><a href="/hacking-vs-prison">Hacking vs Prison</a></li>
     <li class="divider"></li>
     <li><a href="/ice-cream-vs-war">Ice Cream vs War</a></li>
+    <li class="divider"></li>
+    <li><a href="/joel-vs-911">Joel vs 911</a></li>
     <li class="divider"></li>
     <li><a href="/kanye-vs-thanos">Kanye vs Thanos</a></li>
     <li class="divider"></li>
