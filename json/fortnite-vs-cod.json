@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=TDsV_9bVJog"
+    },
+    "title": {
+        "title": "Fortnite vs COD"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "tactics",
+        "round3": "attachment",
+        "round4": "confirmed",
+        "round5": "ops",
+        "round6": "dew",
+        "round7": "scope",
+        "round8": "killstreak"
+    },
+    "games": {
+        "round1": ["black panther","black sarcophagus"],
+        "round2": ["weapon tactics"," sales tactics"],
+        "round3": ["gmail attachment","love attachment"],
+        "round4": ["confirmed catholic","alien confirmed"],
+        "round5": ["post ops","sex ops"],
+        "round6": ["dew drop","do dew"],
+        "round7": ["no scope","fortnite scope"],
+        "round8": ["ninja killstreak","best killstreak"]
+    }
+}

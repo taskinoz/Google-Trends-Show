@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=j5Ni02iXHjo"
+    },
+    "title": {
+        "title": "Joel vs 911"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "freemium",
+        "round3": "ebay",
+        "round4": "microsoft",
+        "round5": "surveillance",
+        "round6": "moji",
+        "round7": "joel",
+        "round8": "protocol"
+    },
+    "games": {
+        "round1": ["phone call","call 911"],
+        "round2": ["freemium definition","freemium game"],
+        "round3": ["ebay yeezys","ebay phone"],
+        "round4": ["microsoft word","microsoft windows"],
+        "round5": ["surveillance camera","video surveillance"],
+        "round6": ["best moji","bit moji"],
+        "round7": ["joel twitch","joel mchale"],
+        "round8": ["emergency protocol","office protocol"]
+    }
+}
