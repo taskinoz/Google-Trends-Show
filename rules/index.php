@@ -8,6 +8,7 @@
       <meta name="keywords" content="google,trends,show,description,about,funhaus,roosterteeth">
       <meta name="author" content="Trend Master">
       <?php include '../scripts.php';?>
+      <?php include '../analytics.php';?>
     </head>
     <body>
       <?php include '../menu.php';?>

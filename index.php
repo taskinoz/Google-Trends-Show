@@ -8,6 +8,7 @@
       <meta name="keywords" content="google,trends,show,description,about,funhaus,roosterteeth">
       <meta name="author" content="Trend Master">
       <?php include 'scripts.php';?>
+      <?php include 'analytics.php';?>
     </head>
     <body>
       <?php include 'menu.php';?>
@@ -15,7 +16,6 @@
         <div class="row">
           <div class="col s12">
             <h1>Loading...</h1>
-            <!-- <iframe class="yt" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbIc1971kgPCjKm56j_tNsetBn3PA5GaY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
             <iframe class="yt" width="560" height="315" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
