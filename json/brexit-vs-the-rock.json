@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=6slGgOpUZDA"
+    },
+    "title": {
+        "title": "Brexit vs The Rock"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "take",
+        "round3": "changes",
+        "round4": "michael",
+        "round5": "rock",
+        "round6": "jones",
+        "round7": "care",
+        "round8": "sing"
+    },
+    "games": {
+        "round1": ["brexit","bakeoff"],
+        "round2": ["take that","take money"],
+        "round3": ["sex changes","make changes"],
+        "round4": ["michael cohen","george michael"],
+        "round5": ["rock dj","the rock"],
+        "round6": ["alex jones","jessica jones"],
+        "round7": ["intensive care","health care"],
+        "round8": ["sing winning","sing lesson"]
+    }
+}
