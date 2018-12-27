@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=lqIgGVr8_3I"
+    },
+    "title": {
+        "title": "Google Trends - RTX Australia"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "somebody",
+        "round3": "grease",
+        "round4": "head",
+        "round5": "cheap",
+        "round6": "fancy",
+        "round7": "girl",
+        "round8": "excess"
+    },
+    "games": {
+        "round1": ["under wear","under where"],
+        "round2": ["killers somebody","love somebody"],
+        "round3": ["grease porn","grease lightning"],
+        "round4": ["get head","give head"],
+        "round5": ["cheap flights","cheap date"],
+        "round6": ["fancy dress","fancy boys"],
+        "round7": ["hot girl","girl friend"],
+        "round8": ["excess hair","excess sex"]
+    }
+}
