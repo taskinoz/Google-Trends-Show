@@ -1,0 +1,18 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=mrb3vj3yWUY"
+    },
+    "title": {
+        "title": "Smash Bros vs Pokemon"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "combo",
+        "round3": "kirby"
+    },
+    "games": {
+        "round1": ["smash leak","super smash"],
+        "round2": ["combo guide","combo snacks"],
+        "round3": ["jack kirby","kirby moves"]
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=J0nyFpV7KOo"
+    },
+    "title": {
+        "title": "Tik Tok vs V-bucks"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "sale",
+        "round3": "4k",
+        "round4": "deal",
+        "round5": "cyber",
+        "round6": "manslaughter"
+    },
+    "games": {
+        "round1": ["discount code","vbucks discount"],
+        "round2": ["friday sale","steam sale"],
+        "round3": ["4k uhd","4k tv"],
+        "round4": ["best deal","black deal"],
+        "round5": ["cyber attack","cyber monday"],
+        "round6": ["involuntary manslaughter","manslaughter news"]
+    }
+}

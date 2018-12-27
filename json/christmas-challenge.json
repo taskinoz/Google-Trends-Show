@@ -1,0 +1,24 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=PdQsG6hmxZw"
+    },
+    "title": {
+        "title": "Christmas Challenge: Elyse Hates Christmas!?"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "hanukkah",
+        "round3": "tree",
+        "round4": "popular movie",
+        "round5": "popular movie",
+        "round6": "popular movie"
+    },
+    "games": {
+        "round1": ["christmas song","christmas amazon"],
+        "round2": ["hanukkah gift","hanukkah days"],
+        "round3": ["tree ornaments","tree lights"],
+        "round4": ["it's a wonderful life","a christmas carol"],
+        "round5": ["grinch","miracle on 34th street"],
+        "round6": ["christmas story","love actually"]
+    }
+}

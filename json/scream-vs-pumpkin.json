@@ -1,0 +1,28 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=Y4zEI1uwky8"
+    },
+    "title": {
+        "title": "Scream vs Pumpkin"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "pumpkin",
+        "round3": "costume",
+        "round4": "prank",
+        "round5": "haunted",
+        "round6": "candle",
+        "round7": "scary",
+        "round8": "evil"
+    },
+    "games": {
+        "round1": ["netflix scream","scream slut"],
+        "round2": ["smashing pumpkin","pumpkin carve"],
+        "round3": ["sexy costume","ninja costume"],
+        "round4": ["prank video","youtube prank"],
+        "round5": ["haunted tour","haunted hill"],
+        "round6": ["amazon candle","candle stick"],
+        "round7": ["scary mary","scary game"],
+        "round8": ["evil politicians","evil dead"]
+    }
+}

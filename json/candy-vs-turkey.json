@@ -1,0 +1,27 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=jQCN5II3qLs"
+    },
+    "title": {
+        "title": "Candy vs Turkey"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "leaves",
+        "round3": "turkey",
+        "round4": "candy",
+        "round5": "amber",
+        "round6": "sweater",
+        "round7": "squash",
+        "round8": "latte"
+    },
+    "games": {
+        "round1": ["fall solstice","fall out"],
+        "round2": ["tesla leaves","england leaves"],
+        "round3": ["turkey election","cook turkey"],
+        "round4": ["free candy","candy needle"],
+        "round5": ["amber heard","amber waves"],
+        "round6": ["sweater sale","sweater puppies"],
+        "round7": ["squash recipe","spaghetti squash"],
+        "round8": ["starbucks latte","pumpkin latte"]
+}
