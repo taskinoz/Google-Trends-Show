@@ -25,3 +25,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Node Ignore
+node_modules
+gulpfile.js
+package*.json
