@@ -1,0 +1,18 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=KnaW8b90KoY"
+    },
+    "title": {
+        "title": "Super Bowl Challenge"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "bowl",
+        "round3": "touchdown"
+    },
+    "games": {
+        "round1": ["super broly","super porn"],
+        "round2": ["bowl cut","puppy bowl"],
+        "round3": ["touchdown gif","touchdown catch"]
+    }
+}

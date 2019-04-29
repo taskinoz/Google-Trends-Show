@@ -1,0 +1,20 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=W42Br0gZtLM"
+    },
+    "title": {
+        "title": "Mortal Kombat Challenge"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "combat",
+        "round3": "fight",
+        "round4": "fatal"
+    },
+    "games": {
+        "round1": ["mortal combat","mortal enemy"],
+        "round2": ["close combat","combat training"],
+        "round3": ["ufc fight","fight stream"],
+        "round4": ["fatal crash","fatal accident"]
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=O45619Dejg8"
+    },
+    "title": {
+        "title": "Apex Legends Challenge"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "drop",
+        "round3": "zone",
+        "round4": "tracker"
+    },
+    "games": {
+        "round1": ["league legend","john legend"],
+        "round2": ["drop out","drop phone"],
+        "round3": ["end zone","red zone"],
+        "round4": ["food tracker","pet tracker"]
+    }
+}

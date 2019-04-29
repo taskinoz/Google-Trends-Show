@@ -1,0 +1,18 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=bTT4fQBGTog"
+    },
+    "title": {
+        "title": "Kingdom Hearts 3 Challenge"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "dreams",
+        "round3": "heart"
+    },
+    "games": {
+        "round1": ["car key","house key"],
+        "round2": ["dreams explanation","dreams meaning"],
+        "round3": ["heart attack","heart rate"]
+    }
+}
