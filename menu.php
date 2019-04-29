@@ -1,6 +1,6 @@
 <?php
-// TODO: Add server root rariavle to add to the include
-  include 'filesearch.php';
+
+  include($_SERVER['DOCUMENT_ROOT'].'/filesearch.php');
   echo '
   <ul class="sidenav" id="mobile-demo">
     <li><a href="sass.html">Sass</a></li>

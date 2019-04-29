@@ -7,11 +7,11 @@
       <meta name="description" content="The one and only gameshow powered by the Internet.">
       <meta name="keywords" content="google,trends,show,description,about,funhaus,roosterteeth">
       <meta name="author" content="Trend Master">
-      <?php include 'scripts.php';?>
-      <?php include 'analytics.php';?>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/scripts.php');?>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/analytics.php');?>
     </head>
     <body>
-      <?php include 'menu.php';?>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/menu.php');?>
       <div class="container">
         <div class="row">
           <div class="col s12">
@@ -20,6 +20,6 @@
           </div>
         </div>
       </div>
-      <?php include 'footer.php';?>
+      <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php');?>
     </body>
   </html>
