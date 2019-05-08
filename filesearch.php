@@ -23,8 +23,8 @@ $divider = 0;
 echo '<ul id="dropdown1" class="dropdown-content">';
 foreach (glob($jsonDir."*.{json}", GLOB_BRACE) as $filename) {
 
-  $replacethis = array("-", ".json", $jsonDir,$root);
-  $withthis   = array(" ", "", "","");
+  $replacethis = array("-", ".json", $jsonDir);
+  $withthis   = array(" ", "", "");
   $jsonname = str_replace($replacethis, $withthis, $filename);
   $filename = str_replace(".json","",$filename);
   if ($divider>0) {
