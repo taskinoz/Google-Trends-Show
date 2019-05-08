@@ -1,0 +1,20 @@
+{
+  "video": {
+        "video": "https://www.youtube.com/watch?v=u9N5nEygsWw"
+    },
+    "title": {
+        "title": "Game of Thrones Challenge"
+    },
+    "rounds": {
+        "round1": "team name",
+        "round2": "ice",
+        "round3": "dragon",
+        "round4": "wolf"
+    },
+    "games": {
+        "round1": ["bone throne","throne footballs"],
+        "round2": ["ice nipple","ice cream"],
+        "round3": ["imagine dragon","dragon dildo"],
+        "round4": ["were wolf","wolf blitzer"]
+    }
+}
